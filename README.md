@@ -1,4 +1,4 @@
 # Bootcamp2020
 
 front end bootcamp development 
-project link: http://bootcamp_shahzain.surge.sh/
+project link: http://shahzain-react-app.surge.sh/
